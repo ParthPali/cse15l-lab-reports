@@ -27,3 +27,18 @@ The messages list, user field, and message field values change.
 
 `Part 2`
 ---
+
+Private path
+![Image](screenshots/sshpath.png)
+
+Public path
+![Image](screenshots/sshpath.png)
+
+Logging in without needing to enter password
+![Image](screenshots/loginwithoutpassword.png)
+
+
+`Part 3`
+---
+
+I learned how to make directories using mkdir
